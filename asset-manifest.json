@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TRINIT_Rebooting-Rebels_DEV01/static/css/main.cb473fc5.css",
+    "main.js": "/TRINIT_Rebooting-Rebels_DEV01/static/js/main.0501bd95.js",
+    "static/js/787.b85e5f23.chunk.js": "/TRINIT_Rebooting-Rebels_DEV01/static/js/787.b85e5f23.chunk.js",
+    "static/media/main-fonts.svg?v=20": "/TRINIT_Rebooting-Rebels_DEV01/static/media/main-fonts.404be73e1ad40b1da282.svg",
+    "static/media/main-fonts.eot?v=20": "/TRINIT_Rebooting-Rebels_DEV01/static/media/main-fonts.b8dc46886b7e216a02be.eot",
+    "static/media/main-fonts.ttf?v=20": "/TRINIT_Rebooting-Rebels_DEV01/static/media/main-fonts.4d0a76596dbbbfbfe5ee.ttf",
+    "static/media/main-fonts.woff?v=20": "/TRINIT_Rebooting-Rebels_DEV01/static/media/main-fonts.dbf9ed7d53cfa8f73da7.woff",
+    "index.html": "/TRINIT_Rebooting-Rebels_DEV01/index.html",
+    "main.cb473fc5.css.map": "/TRINIT_Rebooting-Rebels_DEV01/static/css/main.cb473fc5.css.map",
+    "main.0501bd95.js.map": "/TRINIT_Rebooting-Rebels_DEV01/static/js/main.0501bd95.js.map",
+    "787.b85e5f23.chunk.js.map": "/TRINIT_Rebooting-Rebels_DEV01/static/js/787.b85e5f23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb473fc5.css",
+    "static/js/main.0501bd95.js"
+  ]
+}
