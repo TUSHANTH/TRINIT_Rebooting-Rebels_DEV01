@@ -1,4 +1,5 @@
 {
+  "homepage": "https://tushanth.github.io/TRINIT_Rebooting-Rebels_DEV01/",
   "name": "dev01",
   "version": "0.1.0",
   "private": true,
@@ -36,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
